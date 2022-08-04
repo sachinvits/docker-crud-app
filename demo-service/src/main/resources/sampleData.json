@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "62e5d512757c0d24324279f2",
+    "firstName": "Candy",
+    "lastName": "Charles",
+    "emailId": "candycharles@dockerdemo.com"
+  },
+  {
+    "_id": "62e5d5121e09b721b98d05ca",
+    "firstName": "Glenn",
+    "lastName": "May",
+    "emailId": "glennmay@dockerdemo.com"
+  },
+  {
+    "_id": "62e5d512f12fa70aff4a92c2",
+    "firstName": "Good",
+    "lastName": "Wyatt",
+    "emailId": "goodwyatt@dockerdemo.com"
+  },
+  {
+    "_id": "62e5d5128952f3475b92e10d",
+    "firstName": "Susie",
+    "lastName": "Phillips",
+    "emailId": "susiephillips@dockerdemo.com"
+  },
+  {
+    "_id": "62e5d512cdeac63c72464c25",
+    "firstName": "Kellie",
+    "lastName": "Hopkins",
+    "emailId": "kelliehopkins@dockerdemo.com"
+  },
+  {
+    "_id": "62e5d512abe17a44ae341c24",
+    "firstName": "Crawford",
+    "lastName": "Blackburn",
+    "emailId": "crawfordblackburn@dockerdemo.com"
+  },
+  {
+    "_id": "62e5d512a72955236e15318c",
+    "firstName": "Marisa",
+    "lastName": "Beard",
+    "emailId": "marisabeard@dockerdemo.com"
+  }
+]

@@ -1,0 +1,19 @@
+version: '3.8'
+services:
+  demo-service:
+    container_name: demo-service
+    image: demo-service:1.0
+    ports:
+      - 8080:8080
+
+  demo-app:
+    container_name: demo-ui
+    image: demo-ui:1.0
+    stdin_open: true # docker run -i
+    tty: true        # docker run -t
+    build: 
+      target: development
+    ports:
+      - 3000:3000
+    depends_on:
+      - demo-service

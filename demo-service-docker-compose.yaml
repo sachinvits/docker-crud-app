@@ -1,0 +1,7 @@
+version: '3.8'
+services:
+  app:
+    container_name: demo-service
+    image: demo-service:1.0
+    ports:
+      - 8080:8080
